@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/b84496f5a82e4e6" target="blank"><img src="https://img.shields.io/twitter/follow/b84496f5a82e4e6?logo=twitter&style=for-the-badge" alt="b84496f5a82e4e6" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lomesshh&show_icons=true&locale=en&layout=compact" alt="lomesshh" /></p><br><br><br><br><br><br><br><br>
 
 - 🌱 I’m currently learning **React, Redux and Serverless**
 
@@ -18,6 +17,11 @@
 - 📝 I regularly write articles on [https://hashnode.com/@lomesshh](https://hashnode.com/@lomesshh)
 
 - 📫 How to reach me **badhelomesh2510@gmail.com**
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lomesshh&show_icons=true&locale=en&layout=compact" alt="lomesshh" /></p>
+<br><br><br><br><br><br><br><br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
