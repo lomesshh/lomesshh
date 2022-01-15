@@ -5,7 +5,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lomesshh&show_icons=true&locale=en" alt="lomesshh" /></p>
 
-<p align="left"> <a href="https://twitter.com/b84496f5a82e4e6" target="blank"><img src="https://img.shields.io/twitter/follow/b84496f5a82e4e6?logo=twitter&style=for-the-badge" alt="b84496f5a82e4e6" /></a> </p>
+<p align="left"> <a href=https://twitter.com/lomesshh" target="blank"><img src="https://img.shields.io/twitter/follow/lomesshh?logo=twitter&style=for-the-badge" alt="lomesshh" /></a> </p>
 
 
 - 🌱 I’m currently learning **React, Redux and Serverless**
